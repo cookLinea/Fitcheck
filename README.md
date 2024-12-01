@@ -1,4 +1,4 @@
-# About FitCheck (build on EDU chain)
+# About FitCheck (build on LINEA SEPOLIA TESTNET chain)
 
 - Verify this Contract -> [Verify FIT](https://sepolia.lineascan.build/address/0xec0d386a5820714ef0dc2b21e92eb65c63ef221f)
 
@@ -44,7 +44,7 @@ yarn install
 npm install
 npm start
 ```
-Add this FIT token as manually into your wallet on EDU Chain
+Add this FIT token as manually into your wallet on LINEA SEPOLIA TESTNET Chain
 
 Contract Address = 0xEc0D386A5820714Ef0DC2B21E92eB65C63eF221f
 
